@@ -7,4 +7,3 @@
 * <img width="850" alt="amazon" src="https://user-images.githubusercontent.com/92479644/164147844-85ed723c-d2d6-404f-86b3-d607f298e53a.png">
 #### 3.Summary:
 Base on the findings I believe that there is a vine program and the results tells me that the 5 star reviews seems to have a trend. while most of the 5 star reviews occupy 1/3 of the vine reviews. 
-# amazon_vine_analysis
